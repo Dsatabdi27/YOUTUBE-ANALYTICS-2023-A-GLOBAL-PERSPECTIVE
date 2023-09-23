@@ -39,7 +39,7 @@ MS Excel Course & Advanced Excel - by CloudyML
 ## Tableau Dashboard
 We have created an interactive Tableau dashboard to visualize the results of our analysis. 
 You can explore the dashboard [here]🔗
-https://public.tableau.com/views/GLOBALYOUTUBESTATISTICSIN2023/DashboardGLOBALYOUTUBESTATISTICSIN2023?:language=en-US&:display_count=n&:origin=viz_share_link.
+https://public.tableau.com/views/YOUTUBEANALYTICS2023AGLOBALPERSPECTIVE/DashboardGLOBALYOUTUBESTATISTICSIN2023?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## To replicate the analysis or explore the data further, follow these steps:
 1. Clone this repository to your local machine.
